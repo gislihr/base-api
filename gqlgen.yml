@@ -85,3 +85,9 @@ models:
       - github.com/99designs/gqlgen/graphql.Int
       - github.com/99designs/gqlgen/graphql.Int64
       - github.com/99designs/gqlgen/graphql.Int32
+  Todo:
+    model:
+      - github.com/gislihr/base-api/pkg/services/todo.Todo
+  User:
+    model:
+      - github.com/gislihr/base-api/pkg/services/todo.User
